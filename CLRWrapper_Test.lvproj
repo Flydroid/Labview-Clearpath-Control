@@ -10,10 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Axis.lvclass" Type="LVClass" URL="../Axis.lvclass"/>
+		<Item Name="Axis.lvclass" Type="LVClass" URL="../Axis/Axis.lvclass"/>
 		<Item Name="CLRWrapper_Test.vi" Type="VI" URL="../CLRWrapper_Test.vi"/>
 		<Item Name="Create Clearpath Nodes.vi" Type="VI" URL="../Create Clearpath Nodes.vi"/>
-		<Item Name="MoveGantry.vi" Type="VI" URL="../MoveGantry.vi"/>
 		<Item Name="Open Clearpath Ports.vi" Type="VI" URL="../Open Clearpath Ports.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
